@@ -8,6 +8,6 @@ setup(
     author_email = "gerry@hiredhacker.com",
     description  = ("django utilities allowing easy handling and configuration of jqGrids"),
     license = "BSD",
-    py_modules = ['jqgrid'],
+    packages=['django_jqgrid'],
 )
 
