@@ -1,3 +1,5 @@
+Below Written by the original Author
+
 = django-jqgrid =
 django-jqgrid aims to make integrating full support for jqgrid as simple as
 defining which models you want exposed, while still supporting the more
